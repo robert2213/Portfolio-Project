@@ -1,16 +1,52 @@
+
 body {
-    background: url(https://images.unsplash.com/photo-1534367990512-edbdca781b00?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+    background-image: url(https://images.unsplash.com/photo-1534367990512-edbdca781b00?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
     background-repeat: no-repeat;
     background-position: center top 56px;
     background-size: cover;
 }
 
-
-html, body {
-    height: 100%;
+h4 {
+    
 }
 
 
 #envision {
     font-family: 'Trade Winds', cursive;
+    color: white;
+    text-shadow: 2px 2px black;
 }
+
+#resources {
+    text-align: center;
+    position: inherit ;
+    padding-bottom: 50px;
+}
+
+  #virtual {
+      width: 1000px;
+      border-style: double;
+      border-color: firebrick;
+      text-shadow: 2px 2px black;
+      border-width: thick;
+     
+      
+  }
+
+  .responsive {
+    box-shadow: 10px 10px 5px grey;
+  }
+
+  #title {
+        font-family: 'Trade Winds', cursive;
+        color: white;
+        text-shadow: 2px 2px black;
+        text-align:center;
+        margin-top: 60px;
+        text-decoration: underline firebrick;
+        text-decoration-style:wavy;
+  }
+
+  
+
+ 
