@@ -14,7 +14,7 @@ h4 {
 #envision {
     font-family: 'Trade Winds', cursive;
     color: white;
-    text-shadow: 2px 2px black;
+    text-shadow: 2px 2px firebrick;
 }
 
 #resources {
@@ -27,7 +27,7 @@ h4 {
       width: 1000px;
       border-style: double;
       border-color: firebrick;
-      text-shadow: 2px 2px black;
+      text-shadow: 2px 2px firebrick;
       border-width: thick;
      
       
@@ -40,11 +40,14 @@ h4 {
   #title {
         font-family: 'Trade Winds', cursive;
         color: white;
-        text-shadow: 2px 2px black;
+        text-shadow: 2px 2px firebrick;
         text-align:center;
         margin-top: 60px;
-        text-decoration: underline firebrick;
-        text-decoration-style:wavy;
+        
+  }
+
+  #contact {
+      padding-top: 100px;
   }
 
   
